@@ -2295,6 +2295,7 @@
     npmlog "^4.1.2"
     pretty-hrtime "^1.0.3"
 
+
 "@storybook/postinstall@6.0.25":
   version "6.0.25"
   resolved "https://registry.yarnpkg.com/@storybook/postinstall/-/postinstall-6.0.25.tgz#67333b4f3a65f2927975c064d4c339dcc5cf6251"
